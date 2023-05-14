@@ -1,0 +1,29 @@
+{
+  "name": "discord-myq",
+  "version": "1.0.0",
+  "description": "A Discord Bot that controls your garage!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oggunderscore/discord-myq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oggunderscore/discord-myq/issues"
+  },
+  "homepage": "https://github.com/oggunderscore/discord-myq#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "myq-api": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
